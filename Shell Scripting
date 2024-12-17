@@ -1,0 +1,15 @@
+Welcome to Cloud Shell! Type "help" to got started.
+To set your Cloud Platform project in this session use "geloud config set project [PROJECT]
+juliangans15@cloudshell:$ cd tugas_sistem_operasi
+juliangans15@cloudshell:"/tugas.sistem operasis touch info system.sh
+juliangans15@cloudshell:"/tugas.sistem operasis nano info.system.sh
+juliangans15@cloudshell:"/tugas-sistem operasis cat info_system.sh
+#!/bin/bash
+#menampilkan waktu saat ini
+echo " watu saat ini $(datel"
+#menampilkan nama pengguna yang sedang Login
+echo " pengguna yang sedang login: S Idatel"
+#menampilkan total pengguna disk di sistem
+echo " total pengguna disk di sistem:"
+dfh| grep '^/' #menampilkan informasi disk yang digunakan
+juliangans15@cloudshell:"/tugas.sistem.operasis
